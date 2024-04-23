@@ -18,7 +18,7 @@ Dataset Description:
 
 
 
-Question One: Are there any noticeable trends in the number of people killed in the Bronx based on the hour of crash time compared to Brooklyn and Manhattan? 
+Question One: 
 
 
 
