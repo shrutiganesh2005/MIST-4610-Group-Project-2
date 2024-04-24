@@ -2,13 +2,13 @@
 Team Name: 21479 Group 8
 Group Members
 
-Yared Awoke
+1. Yared Awoke
 
-Shruti Ganesh
+2. Shruti Ganesh
 
-Yunus Lallo
+3. Yunus Lallo
 
-Ayad Momin
+4. Ayad Momin
 
 Dataset Description:
 
