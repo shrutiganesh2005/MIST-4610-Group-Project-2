@@ -27,4 +27,8 @@ The Motor Vehicle Collisions dataset for New York City, accessible via this link
 **Tie to the Dataset:**
 
 
+**Manipulations Applied to the Dataset:**
 
+**Analysis and Results:**
+
+**Tableau Packaged Workbook Attached to ELC**
