@@ -43,4 +43,10 @@ Relative to each other, Brooklyn is known for its large city presence while Stat
 <img width="628" alt="Screenshot 2024-04-26 at 6 25 43 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-2/assets/114629015/41d2e2d4-0c36-478f-ab39-a2452ca852dc">
 <img width="776" alt="Screenshot 2024-04-26 at 6 27 30 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-2/assets/114629015/2d98c18f-2a78-469d-bcaf-3e0cd29af339">
 
+After finding which boroughs had the most deaths from car crashes, we found which specific vehicles in each region were responsible for the most crashes. After determining the number deaths for each type of vehicle, we condensed the data to the top five vehicles with the most crashes: bus, e-bike, motorcycle, sedan, and station wagon/sport utility vehicle. 
+
+Relative to each other, Brooklyn having the highest number of deaths and Staten Island having the lowest number of deaths both shared the similarity of the type of vehicle causing the most deaths. The Sedan caused 13,663 people to be injured and 42 people to be killed between the years 2020-2024 in Brooklyn, NY. In Staten Island, Sedan vehicles caused 1,728 people to be injured and 9 people to be killed. 
+
+On the other hand, the vehicle with the lowest number of deaths was also similar to both boroughs. 437 people were injured by e-bike and 3 were killed in Brooklyn between 2020 and 2024. 2 people were injured and 1 person was killed by e-bike in Staten Island between 2020 and 2024. While each borough has vastly different populations, they both show similarities in helping researchers figure out which vehicles seem to be more dangerous. 
+
 **Tableau Packaged Workbooks Attached to ELC**
