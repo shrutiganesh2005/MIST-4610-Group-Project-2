@@ -1,6 +1,7 @@
 # MIST-4610-Group-Project-2
 Team Name: 21479 Group 8
-Group Members
+
+**Group Members**
 
 1. Yared Awoke
 
