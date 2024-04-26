@@ -2,7 +2,6 @@
 Team Name: 21479 Group 8
 
 **Group Members**
-
 1. Yared Awoke
 
 2. Shruti Ganesh
