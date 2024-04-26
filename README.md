@@ -10,7 +10,7 @@ Team Name: 21479 Group 8
 
 4. Ayad Momin
 
-Dataset Description:
+**Dataset Description:**
 
 
 
@@ -18,19 +18,11 @@ Dataset Description:
 
 
 
-Question One: 
+**Question One: **
 
 
 
-Importance & Relevance:
-
-
-
-
-
-
-
-
+**Importance & Relevance:**
 
 
 
@@ -49,7 +41,15 @@ Importance & Relevance:
 
 
 
-Tie to the Dataset:
+
+
+
+
+
+
+
+
+**Tie to the Dataset:**
 
 
 
