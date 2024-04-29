@@ -17,7 +17,7 @@ The Motor Vehicle Collisions dataset for New York City, accessible through this 
    
 **Importance & Relevance:**
 
-**Health and Safety:** This map identifies where accidents frequently occur, helping us prevent injuries and save lives by making those areas safer.
+**Health and Safety:** This map identifies the specific borough in New York where accidents frequently occur, helping us prevent injuries and save lives by making those areas safer.
 
 **Road Improvements:** The data helps us know where to add things like speed bumps or new streetlights to improve road safety.
 
