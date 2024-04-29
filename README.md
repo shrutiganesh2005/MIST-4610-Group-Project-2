@@ -17,6 +17,17 @@ The Motor Vehicle Collisions dataset for New York City, accessible through this 
    
 **Importance & Relevance:**
 
+Health and Safety: The map shows where more accidents happen, helping us find the dangerous spots so we can try to stop people from getting hurt or dying in car accidents.
+
+Roads and Planning: This info helps figure out where we might need speed bumps or better streetlights to make roads safer.
+
+Money Matters: Car crashes cost a lot — in emergency help, medical bills, and when people can’t work. Understanding where crashes happen can help manage these costs.
+
+People Power: If people know where the most accidents are, they can work together to make their neighborhoods safer.
+
+Laws and Rules: The government can make new traffic laws, like lower speed limits or better traffic lights, to make roads safer if they know where the most crashes are happening.
+
+
 **Tie to the Dataset:**
 
 
