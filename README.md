@@ -31,7 +31,7 @@ The Motor Vehicle Collisions dataset for New York City, accessible through this 
 **Tie to the Dataset:**
 The dataset from the link, https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes,  is useful for recognizing car crash patterns in New York. It has a full list of crashes, complete with exact spots where they occurred. When we put this information on a map, we can notice the areas with the most problems at a glance. This kind of map helps us see trends, like if one borough has more accidents than another. With this knowledge, city planners and safety officials can work on making those high-crash areas safer for everyone.
 
-On the map you provided, we plotted crash locations to identify which areas in New York City have higher accident rates. This visualization helps us determine which boroughs should be prioritized for safety improvements and resource allocation.
+On the map we provided, we plotted crash locations to identify which areas in New York City have higher accident rates. This visualization helps us determine which boroughs should be prioritized for safety improvements and resource allocation.
 
 
 **Question Two:** Out of the two boroughs found with the most and least number of people killed in car crashes, which specific car model had the most people killed during the same time period? 
