@@ -47,7 +47,6 @@ Consumer Awareness: Consumers can use this information to make more informed dec
 Interventions: Local authorities and transportation agencies can use insights from this analysis to implement things in areas with higher fatality rates or with specific vehicle models that are at higher risk of being involved in fatal crashes. This could include improved road infrastructure, enhanced law enforcement, or public awareness campaigns targeting drivers of these vehicles.
 
 **Tie to the Dataset:**
-The dataset from the link, https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes,  is useful for recognizing car crash patterns in New York. It has a full list of crashes, complete with exact spots where they occurred. When we put this information on a map, we can notice the areas with the most problems at a glance. This kind of map helps us see trends, like if one borough has more accidents than another. With this knowledge, city planners and safety officials can work on making those high-crash areas safer for everyone.
 
 It identifies the boroughs with the most and least number of people killed in car crashes by analyzing the dataset, we can determine which boroughs had the highest and lowest number of fatalities in car crashes during the specified period.
 
