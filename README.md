@@ -44,8 +44,24 @@ The dataset from the link, https://catalog.data.gov/dataset/motor-vehicle-collis
 
 **Importance & Relevance:**
 
-**Tie to the Dataset:**
+Safety Analysis: Allows the understanding of which car models are involved in the most fatalities and can provide information about the safety of different vehicles. This information can be used by regulatory agencies, car manufacturers, and consumers to assess and improve vehicle safety standards.
 
+Policy Implications: Identifies common factors associated with fatalities, such as specific car models, and can inform policy decisions aimed at reducing the number of deaths on the road. This may include implementing stricter safety regulations and incentivizing the adoption of safer vehicles.
+
+Consumer Awareness: Consumers can use this information to make more informed decisions when purchasing vehicles. Knowing which car models are associated with higher fatality rates may influence individuals to choose safer options, therefore potentially reducing their risk of being involved in a fatal crash.
+
+Interventions: Local authorities and transportation agencies can use insights from this analysis to implement things in areas with higher fatality rates or with specific vehicle models that are at higher risk of being involved in fatal crashes. This could include improved road infrastructure, enhanced law enforcement, or public awareness campaigns targeting drivers of these vehicles.
+
+**Tie to the Dataset:**
+The dataset from the link, https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes,  is useful for recognizing car crash patterns in New York. It has a full list of crashes, complete with exact spots where they occurred. When we put this information on a map, we can notice the areas with the most problems at a glance. This kind of map helps us see trends, like if one borough has more accidents than another. With this knowledge, city planners and safety officials can work on making those high-crash areas safer for everyone.
+
+It identifies the boroughs with the most and least number of people killed in car crashes by analyzing the dataset, we can determine which boroughs had the highest and lowest number of fatalities in car crashes during the specified period.
+
+It filters the dataset to include only the car crashes in these boroughs which allows us to subset the dataset to include only the records where the crashes occurred in the two identified boroughs.
+
+The data analyzes the dataset to determine the specific car models involved and contains information about the vehicles involved in each crash, including their make and model. By analyzing this information within the filtered dataset, we can identify the specific car models that were involved in fatal car crashes in the selected boroughs.
+
+We aggregated the data to find the car model with the highest number of people killed. Once we have identified the car models involved in fatal crashes, we can aggregate the data to determine which specific car model had the highest number of fatalities in each of the two boroughs.
 
 **Manipulations Applied to the Dataset:**
 
