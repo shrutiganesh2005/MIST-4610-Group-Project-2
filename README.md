@@ -44,9 +44,9 @@ The dataset from the link, https://catalog.data.gov/dataset/motor-vehicle-collis
 
 **Importance & Relevance:**
 
-Safety Analysis: Allows the understanding of which car models are involved in the most fatalities and can provide information about the safety of different vehicles. This information can be used by regulatory agencies, car manufacturers, and consumers to assess and improve vehicle safety standards.
+Safety Analysis: Understanding what car models cause the most fatalities can provide information about the safety of different vehicles and can be used by regulatory agencies, car manufacturers, and consumers to assess and improve vehicle safety standards.
 
-Policy Implications: Identifies common factors associated with fatalities, such as specific car models, and can inform policy decisions aimed at reducing the number of deaths on the road. This may include implementing stricter safety regulations and incentivizing the adoption of safer vehicles.
+Policy Implications: Identifying common factors associated with fatalities, such as specific car models, can inform policy decisions aimed at reducing the number of deaths on the road. This may include implementing stricter safety regulations and incentivizing the adoption of safer vehicles.
 
 Consumer Awareness: Consumers can use this information to make more informed decisions when purchasing vehicles. Knowing which car models are associated with higher fatality rates may influence individuals to choose safer options, therefore potentially reducing their risk of being involved in a fatal crash.
 
