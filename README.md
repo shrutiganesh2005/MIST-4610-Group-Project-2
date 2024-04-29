@@ -29,6 +29,7 @@ The Motor Vehicle Collisions dataset for New York City, accessible through this 
 
 
 **Tie to the Dataset:**
+The dataset used, available at https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes, is invaluable for conducting this kind of analysis since it includes comprehensive records of motor vehicle collisions, including geographical coordinates which are crucial for spatial analysis. When these incidents are represented on a coordinate map, they reveal critical regional patterns and trends.
 
 
 **Question Two:** Out of the two boroughs found with the most and least number of people killed in car crashes, which specific car model had the most people killed during the same time period? 
