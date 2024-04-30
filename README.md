@@ -58,7 +58,9 @@ We aggregated the data to find the car model with the highest number of people k
 
 **Manipulations Applied to the Dataset:**
 
+Our manipulations applied to the dataset include the data being grouped by a specific time frame which was 2020-2024. We excluded all other years for the crash data as our question was based on a more recent period. We then applied the manipulation of organizing the crashes by borough. From there we were able to get data on boroughs that had the highest and lowest amount of crashes. 
 
+For our second question, since we had the data of boroughs with most and least crashes we were able to filter those specific boroughs to show us the car models in each crash. By getting this specific data we were able to find the model with the highest percentage of crashes. This information can be helpful to law enforcement or car manufacturers and seeing if there is a relation between the specific car model in correlation to a higher risk of car crashes.  
 
 
 
