@@ -48,7 +48,7 @@ On the map we provided, we plotted crash locations to identify which areas in Ne
 
 **Tie to the Dataset:**
 
-It identifies the boroughs with the most and least number of people killed in car crashes by analyzing the dataset, we can determine which boroughs had the highest and lowest number of fatalities in car crashes during the specified period.
+The dataset identifies the boroughs with the most and least number of people killed in car crashes. By analyzing the dataset, we can determine which boroughs had the highest and lowest number of fatalities in car crashes during the specified period.
 
 It filters the dataset to include only the car crashes in these boroughs which allows us to subset the dataset to include only the records where the crashes occurred in the two identified boroughs.
 
