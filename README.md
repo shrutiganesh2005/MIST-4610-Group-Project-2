@@ -38,13 +38,13 @@ On the map we provided, we plotted crash locations to identify which areas in Ne
 
 **Importance & Relevance:**
 
-Safety Analysis: Understanding what car models cause the most fatalities can provide information about the safety of different vehicles and can be used by regulatory agencies, car manufacturers, and consumers to assess and improve vehicle safety standards.
+**Safety Analysis:** Understanding what car models cause the most fatalities can provide information about the safety of different vehicles and can be used by regulatory agencies, car manufacturers, and consumers to assess and improve vehicle safety standards.
 
-Policy Implications: Identifying common factors associated with fatalities, such as specific car models, can inform policy decisions aimed at reducing the number of deaths on the road. This may include implementing stricter safety regulations and incentivizing the adoption of safer vehicles.
+**Policy Implications:** Identifying common factors associated with fatalities, such as specific car models, can inform policy decisions aimed at reducing the number of deaths on the road. This may include implementing stricter safety regulations and incentivizing the adoption of safer vehicles.
 
-Consumer Awareness: Consumers can use this information to make more informed decisions when purchasing vehicles. Knowing which car models are associated with higher fatality rates may influence individuals to choose safer options, therefore potentially reducing their risk of being involved in a fatal crash.
+**Consumer Awareness:** Consumers can use this information to make more informed decisions when purchasing vehicles. Knowing which car models are associated with higher fatality rates may influence individuals to choose safer options, therefore potentially reducing their risk of being involved in a fatal crash.
 
-Interventions: Local authorities and transportation agencies can use insights from this analysis to implement things in areas with higher fatality rates or with specific vehicle models that are at higher risk of being involved in fatal crashes. This could include improved road infrastructure, enhanced law enforcement, or public awareness campaigns targeting drivers of these vehicles.
+**Interventions:** Local authorities and transportation agencies can use insights from this analysis to implement things in areas with higher fatality rates or with specific vehicle models that are at higher risk of being involved in fatal crashes. This could include improved road infrastructure, enhanced law enforcement, or public awareness campaigns targeting drivers of these vehicles.
 
 **Tie to the Dataset:**
 
@@ -57,6 +57,13 @@ The data analyzes the dataset to determine the specific car models involved and 
 We aggregated the data to find the car model with the highest number of people killed. Once we have identified the car models involved in fatal crashes, we can aggregate the data to determine which specific car model had the highest number of fatalities in each of the two boroughs.
 
 **Manipulations Applied to the Dataset:**
+
+
+
+
+
+
+
 
 **Analysis and Results:**
 1. From the years 2020-2024, which boroughs in New York had the most and least number of people killed in car crashes?
